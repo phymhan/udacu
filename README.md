@@ -1,4 +1,7 @@
-# udacu
-Unsupervised Domain-Adaptation via Calibrating Uncertainties
+# Unsupervised Domain-Adaptation via Calibrating Uncertainties
 
-comming soon
+## Paper
+[[pdf]](https://phymhan.github.io/pdf/udacu_cvprw19.pdf)
+
+## Code
+Code will be released soon
